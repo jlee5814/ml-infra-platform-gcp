@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.*
+
+# Docker
+*.log
+*.pid
+
+# System
+.DS_Store
+
+# Build
+*.zip
+*.tar
