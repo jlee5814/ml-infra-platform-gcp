@@ -1,5 +1,3 @@
-# ML Infrastructure Platform (GCP)
-
 ## System Objective
 Modern ML systems fail less often due to model quality than due to **unclear execution boundaries, implicit infrastructure behavior, and weak isolation between control and data planes**.
 
